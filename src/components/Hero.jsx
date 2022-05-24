@@ -7,8 +7,8 @@ const Hero = () => {
                 <img className="collage" src={photoCollage}/>
             </div>
             <div className="experiance">
-                <h1>Online Experiance</h1>
-                <p>Join unique interactive activities led by one-of-a-kind hosts-all without leaving home.</p>
+                <h1>Worldly Experiances</h1>
+                <p>Our Hosts offer millions of unique homes around the world. Airbnb Categories organize them into curated collections, with over 50 categories of homes chosen for their style, location, or nearby activities.</p>
             </div>
         </section>
     )
